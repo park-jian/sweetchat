@@ -1,0 +1,95 @@
+{
+  "user": [
+    {
+      "id": "u1",
+      "email": "ab1@naver.com",
+      "password": "abcdefg#1",
+      "firstName" : "지민",
+      "lastName": "김",
+      "phone": "01012340001",
+      "birth": "19990302",
+      "gender": "f"
+    },{
+      "id": "u2",
+      "email": "ab2@naver.com",
+      "password": "abcdefg#2",
+      "firstName" : "경구",
+      "lastName": "손",
+      "phone": "01012347772",
+      "birth": "19930518",
+      "gender": "m"
+    },{
+      "id": "u3",
+      "email": "ab3@naver.com",
+      "password": "abcdefg#3",
+      "firstName" : "철수",
+      "lastName": "김",
+      "phone": "01054216453",
+      "birth": "20040612",
+      "gender": "m"
+    },{
+      "id": "u4",
+      "email": "ab4@naver.com",
+      "password": "abcdefg#4",
+      "firstName" : "지연",
+      "lastName": "안",
+      "phone": "01012553401",
+      "birth": "19991212",
+      "gender": "f"
+    },{
+      "id": "u5",
+      "email": "ab5@naver.com",
+      "password": "abcdefg#5",
+      "firstName" : "지민",
+      "lastName": "김",
+      "phone": "01015434001",
+      "birth": "19830523",
+      "gender": "f"
+    },{
+      "id": "u6",
+      "email": "ab6@naver.com",
+      "password": "abcdefg#6",
+      "firstName" : "정훈",
+      "lastName": "한",
+      "phone": "01035680001",
+      "birth": "20030123",
+      "gender": "m"
+    },{
+      "id": "u7",
+      "email": "ab7@naver.com",
+      "password": "abcdefg#7",
+      "firstName" : "상민",
+      "lastName": "신",
+      "phone": "01012347652",
+      "birth": "19760802",
+      "gender": "m"
+    },{
+      "id": "u8",
+      "email": "ab8@naver.com",
+      "password": "abcdefg#8",
+      "firstName" : "예슬",
+      "lastName": "김",
+      "phone": "01064530001",
+      "birth": "19750302",
+      "gender": "f"
+    },{
+      "id": "u9",
+      "email": "ab9@naver.com",
+      "password": "abcdefg#9",
+      "firstName" : "경인",
+      "lastName": "황",
+      "phone": "01014540001",
+      "birth": "19900702",
+      "gender": "f"
+    },{
+      "id": "u10",
+      "email": "ab10@naver.com",
+      "password": "abcdefg#10",
+      "firstName" : "영호",
+      "lastName": "박",
+      "phone": "01012341234",
+      "birth": "20010312",
+      "gender": "m"
+    }
+  ]
+}
